@@ -1,0 +1,34 @@
+﻿.img-thumbnail {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.img-thumbnail:hover {
+    cursor: pointer;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.one_dots {
+    overflow: hidden;
+    display: -webkit-box !important;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+}
+
+.two_dots {
+    overflow: hidden;
+    display: -webkit-box !important;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+}
+
+.three_dots {
+    overflow: hidden;
+    display: -webkit-box !important;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+}

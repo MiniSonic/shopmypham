@@ -1,0 +1,17 @@
+﻿.feature-product-wp .section-detail .product-name {
+    display: inline-block;
+    text-align: left;
+    color: #222;
+    font-family: 'Roboto Medium';
+    margin: 15px 0px 5px 0px;
+    line-height: normal;
+}
+
+.feature-product-wp .section-detail .price .new {
+    display: inline-block;
+    font-family: 'Roboto Medium';
+    color: #f12a43;
+    font-size: 15px;
+    font-weight: normal;
+    margin-right: 5px;
+}
